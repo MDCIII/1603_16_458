@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Johor"@eng-Latn ;
-    wdata:q7200235 "MY01" ;
+    wdata:Q7200235 "MY01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -60,7 +60,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Perlis"@eng-Latn ;
-    wdata:q7200235 "MY10" ;
+    wdata:Q7200235 "MY10" ;
 .
 
 <urn:mdciii:1603:16:458:1:11>
@@ -71,7 +71,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Pulau Pinang"@eng-Latn ;
-    wdata:q7200235 "MY11" ;
+    wdata:Q7200235 "MY11" ;
 .
 
 <urn:mdciii:1603:16:458:1:12>
@@ -82,7 +82,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Sabah"@eng-Latn ;
-    wdata:q7200235 "MY12" ;
+    wdata:Q7200235 "MY12" ;
 .
 
 <urn:mdciii:1603:16:458:1:13>
@@ -93,7 +93,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Sarawak"@eng-Latn ;
-    wdata:q7200235 "MY13" ;
+    wdata:Q7200235 "MY13" ;
 .
 
 <urn:mdciii:1603:16:458:1:15>
@@ -104,7 +104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Terengganu"@eng-Latn ;
-    wdata:q7200235 "MY15" ;
+    wdata:Q7200235 "MY15" ;
 .
 
 <urn:mdciii:1603:16:458:1:16>
@@ -115,7 +115,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "W.P. Putrajaya"@eng-Latn ;
-    wdata:q7200235 "MY16" ;
+    wdata:Q7200235 "MY16" ;
 .
 
 <urn:mdciii:1603:16:458:1:17>
@@ -126,7 +126,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Selangor"@eng-Latn ;
-    wdata:q7200235 "MY17" ;
+    wdata:Q7200235 "MY17" ;
 .
 
 <urn:mdciii:1603:16:458:1:2>
@@ -137,7 +137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Kedeh"@eng-Latn ;
-    wdata:q7200235 "MY02" ;
+    wdata:Q7200235 "MY02" ;
 .
 
 <urn:mdciii:1603:16:458:1:3>
@@ -148,7 +148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Kelantan"@eng-Latn ;
-    wdata:q7200235 "MY03" ;
+    wdata:Q7200235 "MY03" ;
 .
 
 <urn:mdciii:1603:16:458:1:4>
@@ -159,7 +159,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "W.P. Kuala Lumpur"@eng-Latn ;
-    wdata:q7200235 "MY04" ;
+    wdata:Q7200235 "MY04" ;
 .
 
 <urn:mdciii:1603:16:458:1:5>
@@ -170,7 +170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "W.P. Labuan"@eng-Latn ;
-    wdata:q7200235 "MY05" ;
+    wdata:Q7200235 "MY05" ;
 .
 
 <urn:mdciii:1603:16:458:1:6>
@@ -181,7 +181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Melaka"@eng-Latn ;
-    wdata:q7200235 "MY06" ;
+    wdata:Q7200235 "MY06" ;
 .
 
 <urn:mdciii:1603:16:458:1:7>
@@ -192,7 +192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Negeri"@eng-Latn ;
-    wdata:q7200235 "MY07" ;
+    wdata:Q7200235 "MY07" ;
 .
 
 <urn:mdciii:1603:16:458:1:8>
@@ -203,7 +203,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Pahang"@eng-Latn ;
-    wdata:q7200235 "MY08" ;
+    wdata:Q7200235 "MY08" ;
 .
 
 <urn:mdciii:1603:16:458:1:9>
@@ -214,6 +214,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:458:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:458:0> ;
     skos:prefLabel "Perak"@eng-Latn ;
-    wdata:q7200235 "MY09" ;
+    wdata:Q7200235 "MY09" ;
 .
 
